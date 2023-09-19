@@ -1,0 +1,13 @@
+ds-test/=lib/forge-std/lib/ds-test/src/
+forge-std/=lib/forge-std/src/
+hats-baal-shamans/=lib/hats-baal-shamans/
+@openzeppelin-contracts/=lib/hats-baal-shamans/lib/hats-module/lib/openzeppelin-contracts/
+baal/=lib/hats-baal-shamans/lib/baal/contracts/
+hats-module/=lib/hats-baal-shamans/lib/hats-module/src
+hats-protocol/=lib/hats-baal-shamans/lib/hats-module/lib/hats-protocol/src
+openzeppelin-contracts/=lib/hats-baal-shamans/lib/hats-module/lib/openzeppelin-contracts/
+openzeppelin/=lib/hats-baal-shamans/lib/hats-module/lib/openzeppelin-contracts/contracts/
+solady/=lib/hats-baal-shamans/lib/hats-module/lib/solady/src
+solbase/=lib/hats-baal-shamans/lib/hats-module/lib/hats-protocol/lib/solbase/src/
+solmate/=lib/hats-baal-shamans/lib/hats-module/lib/solady/lib/solmate/src/
+utils/=lib/hats-baal-shamans/lib/hats-module/lib/hats-protocol/lib/utils/

@@ -2,3 +2,6 @@
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 
+[submodule "lib/hats-baal-shamans"]
+	path = lib/hats-baal-shamans
+	url = https://github.com/hats-protocol/hats-baal-shamans
